@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "question": "You toss a coin 20 times and 9 of the tosses result in heads. Based on this experiment, what is the empirical probability for heads?",
+            "options": [
+                0,
+                0.4,
+                0.45
+            ],
+            "answer": 0.45,
+            "id": 1
+        },
+        {
+            "question": "The electromagnetic spectre consists of several types of radiation. Choose the one with the shortest wave length!",
+            "options": [
+                "Ultraviolet radiation",
+                "Thermal radiation",
+                "Microwaves"
+            ],
+            "answer": "Ultraviolet radiation",
+            "id": 2
+        },
+        {
+            "question": "You need to make a map where you can identify the highest and lowest 20% of a variable's data values (the variable could, for instance, be the share of the population receiving disabled pensions). Which of the following classification methods should you use?",
+            "options": [
+                "Natural breaks",
+                "Quartile division",
+                "Quintile division"
+            ],
+            "answer": "Quintile division",
+            "id": 3
+        },
+        {
+            "question": "Complete the sentence! Oral fluency is",
+            "options": [
+                "speaking without making any mistakes.",
+                "speaking naturally without hesitating too much.",
+                "speaking without considering the listener."
+            ],
+            "answer": "speaking naturally without hesitating too much.",
+            "id": 4
+        },
+        {
+            "question": "Complete the sentence! Interactive listening is",
+            "options": [
+                "listening, responding and giving feedback.",
+                "listening for detail, mood and attitude.",
+                "listening and identifying word stress and linking."
+            ],
+            "answer": "listening, responding and giving feedback.",
+            "id": 5
+        },
+        {
+            "question": "Complete the sentence! Summarising is",
+            "options": [
+                "explaining a text in detail.",
+                "writing the last sentence of a text.",
+                "giving the main points of a text."
+            ],
+            "answer": "giving the main points of a text.",
+            "id": 6
+        }
+    ]
+}
